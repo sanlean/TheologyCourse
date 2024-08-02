@@ -36,7 +36,7 @@ const config: Config = {
       'classic',
       {
         docs: {
-          path: 'notas',
+          path: 'docs',
           routeBasePath: 'notas',
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
