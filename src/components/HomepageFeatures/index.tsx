@@ -48,9 +48,7 @@ function Feature({title, Svg, description}: FeatureItem) {
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
-        <BrowserOnly>
-          {() => <p>{description}</p>}
-        </BrowserOnly>
+
       </div>
     </div>
   );
