@@ -1,6 +1,8 @@
 import clsx from 'clsx';
 import Heading from '@theme/Heading';
 import styles from './styles.module.css';
+import BrowserOnly from '@docusaurus/BrowserOnly';
+
 
 type FeatureItem = {
   title: string;
@@ -14,7 +16,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Última anotação de aula foi em .
+        Última anotação de aula foi em {new Intl.DateTimeFormat(navigator.language || 'en-US').format(new Date(2024, 7-1, 31))}.
       </>
     ),
   },
@@ -46,7 +48,9 @@ function Feature({title, Svg, description}: FeatureItem) {
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
-        <p>{description}</p>
+        <BrowserOnly>
+          {() => <p>{description}</p>}
+        </BrowserOnly>
       </div>
     </div>
   );
