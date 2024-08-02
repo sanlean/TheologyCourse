@@ -14,11 +14,7 @@ const FeatureList: FeatureItem[] = [
   {
     title: 'Sempre atualizado',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
-    description: (
-      <>
-        Última anotação de aula foi em {new Intl.DateTimeFormat(navigator.language || 'en-US').format(new Date(2024, 7-1, 31))}.
-      </>
-    ),
+    description: DateComponent(),
   },
   {
     title: 'Referências bíblicas',
@@ -48,11 +44,28 @@ function Feature({title, Svg, description}: FeatureItem) {
       </div>
       <div className="text--center padding-horiz--md">
         <Heading as="h3">{title}</Heading>
-
+        <BrowserOnly>
+          {() =>
+            description
+          }
+        </BrowserOnly>
       </div>
     </div>
   );
 }
+
+function DateComponent() : JSX.Element{
+  return (
+    <BrowserOnly>
+      {() => {
+        const language = navigator.language || 'en-US';
+        const formattedDate = new Intl.DateTimeFormat(language).format(new Date(2024, 6, 31));
+        return <p>Última anotação de aula foi em {formattedDate}.</p>;
+      }}
+    </BrowserOnly>
+  );
+}
+
 
 export default function HomepageFeatures(): JSX.Element {
   return (
