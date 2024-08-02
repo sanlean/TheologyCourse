@@ -14,7 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Última anotação de aula foi em {new Intl.DateTimeFormat(navigator.language || 'en-US').format(new Date(2024, 7-1, 31))}.
+        Última anotação de aula foi em .
       </>
     ),
   },
