@@ -10,32 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Sempre atualizado',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Última anotação de aula foi em {new Intl.DateTimeFormat(navigator.language || 'en-US').format(new Date(2024, 7-1, 31))}.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Referências bíblicas',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Contém referências para as versões <code>NVI</code>, <code>JFA</code> e <code>NVT</code>.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Divisão por temas',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        As anotações não foram separadas por dia mas sim por tema, possuindo uma continuidade dos temas conforme o professor avança nos assuntos.
       </>
     ),
   },
