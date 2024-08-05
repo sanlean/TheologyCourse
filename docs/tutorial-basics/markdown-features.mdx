@@ -25,20 +25,6 @@ slug: /my-custom-url
 Markdown text with [links](./hello.md)
 ```
 
-## Links
-
-Regular Markdown links are supported, using url paths or relative file paths.
-
-```md
-Let's see how to [Create a page](/create-a-page).
-```
-
-```md
-Let's see how to [Create a page](./create-a-page.md).
-```
-
-**Result:** Let's see how to [Create a page](./create-a-page.md).
-
 ## Images
 
 Regular Markdown images are supported.
@@ -129,24 +115,16 @@ export const Highlight = ({children, color}) => (
 This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
 
 This is <Highlight color="#1877F2">Facebook blue</Highlight> !
+
+Veja mais sobre a <Tooltip text="Hypertext Markup Language">HTML</Tooltip>.
 ```
 
-export const Highlight = ({children, color}) => (
-  <span
-    style={{
-      backgroundColor: color,
-      borderRadius: '20px',
-      color: '#fff',
-      padding: '10px',
-      cursor: 'pointer',
-    }}
-    onClick={() => {
-      alert(`You clicked the color ${color} with label ${children}`);
-    }}>
-    {children}
-  </span>
-);
+
+import Highlight from '../../src/components/Highlight';
+import Verse from '../../src/components/Verse';
 
 This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
-
 This is <Highlight color="#1877F2">Facebook blue</Highlight> !
+
+
+Veja mais sobre <Verse reference="1 Corintios 13:1"/> e também <Verse reference="João 3:16"/>.
