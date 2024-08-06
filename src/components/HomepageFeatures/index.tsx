@@ -59,7 +59,7 @@ function DateComponent() : JSX.Element{
     <BrowserOnly>
       {() => {
         const language = navigator.language || 'en-US';
-        const formattedDate = new Intl.DateTimeFormat(language).format(new Date(2024, 6, 31));
+        const formattedDate = new Intl.DateTimeFormat(language).format(new Date(2024, 8-1, 6));
         return <p>Última anotação de aula foi em {formattedDate}.</p>;
       }}
     </BrowserOnly>
