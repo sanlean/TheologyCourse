@@ -1,5 +1,3 @@
-// src/components/Tooltip.js
-
 import React, { useState, useEffect } from 'react';
 import styles from './Verse.module.css';
 
@@ -10,7 +8,6 @@ const Verse = ({ children, reference }) => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    // Função para buscar o JSON e verificar a referência
     const fetchVerse = async () => {
       setLoading(true);
       setError(null);
@@ -25,7 +22,7 @@ const Verse = ({ children, reference }) => {
         const foundVerse = data.find(v => v.reference === reference);
 
         if (foundVerse) {
-          setVerse(foundVerse.verse);
+          setVerse(reference+" "+foundVerse.verse+"\nNVI");
         } else {
           setVerse('Versículo não encontrado');
         }
@@ -37,7 +34,6 @@ const Verse = ({ children, reference }) => {
       }
     };
 
-    // Buscar o versículo somente quando o tooltip for exibido
     if (visible) {
       fetchVerse();
     }
@@ -58,4 +54,5 @@ const Verse = ({ children, reference }) => {
     </span>
   );
 };
+
 export default Verse;
