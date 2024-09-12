@@ -41,5 +41,3 @@ Jeroboão 2 Israel e os 4 reis de Judá que são Uzias, Jotão, Acaz e Ezequias.
 É inegável que foi escrito por Oseias. Não se fala muito sobre dados pessoas dele, somente que era filho de Beeri.
 
 ## Teologia do livro
-
-## 
