@@ -34,3 +34,7 @@ Ele foi citado em Atos 7:42-43. Estevão cita diante do sinçerdrio em Atos 5:25
 Amós tinha um conceito elevado de quem era Deus. Ele fala de Deus como criador (Amós 4:13), Deus como sustentador da criação (Amós 4:8), fala de Deus da abundância (Amós 9:13), como aquele que controla o destino do povo (Amós 1).
 
 Ele traz a condenação de Deus diatnte de um povo imoral. O povo praticava imoralidade sexual e não prativaca ajuda a viuvas e pobres. No capítulo 9 ele faz essa denúncia social. Arrependimento é o maior foco do livro dado que diante de todas as profecias de Amós o objetivo central é levar o povo ao arrepedimento. Que é o mesmo objetivo do livro de Oseias, o mesmo objetivo do livro de Joel.
+
+O profeta encerra o livro com promessa de dias melhores. A promessa do livro de Amós será cumprida com a vinda de Jesus Cristo.
+
+Poré a profecia de Amós foi rejeitada. Romanos 11:26
