@@ -16,3 +16,9 @@ Para os israelitas o vento transmite coisas. Em Jeremias 4:11 temos o vento asso
 Muitos associam Espirito Santo a uma força, luz, ação de Deus. Outras religiões monoteístas não acreditam na existência do Espírito Santo igual ao cristianismo. No judaísmo por exemplo Espírito Santo seria um dos nomes de Deus.
 
 O Espírito Santo é uma pessoa
+
+O Espírito Santo consola João 15:26
+O Espírito Santo nos guia João 16:30
+O Espírito Santo fala conosco Atos 13:2
+O Espírito Santo intercede por nós Romanos 8:26
+O Espírito Santo testemunha Romanos 8:16

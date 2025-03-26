@@ -1,3 +1,6 @@
+---
+sidebar_position: 2 
+---
 
 # Pré tribulacionismo
 
@@ -7,9 +10,19 @@ Quando acabarem os 7 anos (3,5 da tribulação + 3,5 da grande tribulação) os 
 
 Principalmente os pentecostais defendem esta visão
 
+O Apocalipse traz bastante a diferença entre o que a igreja vai passar e o que os judeus vão passar. Apocalipse 3:10 a igreja de Filadélfia seria guardada na hora da tribulação. É a única teoria que separa Israel da igreja. Em Daniel 9:24.
+
+## Argumentações
+
+João 21:22-23 fala que o retorno de Jesus é iminente, ou seja, que Jesus voltaria ainda em tempo de vida de João, naquela época presente para eles. Isso seria incompatível com meso e pós tribulacionismo.
+
+Noé foi liberto do dilúvio mundial seria um exemplo de como Deus trabalha. Ló salvo a tempo de Sodoma e Gomorra. Raabe que foi liberta em Jericó. Tem apoio disso em 2 Pedro 2:4-9 para explicar. 
+
 ## Contra argumentações
 
-Os pós tribulacionistas argumentam que o arrebatamento e a segunda vinda de Cristo será o mesmo momento, uma coisa só. Este acontecimento ocorrerá após o período de tribulação. Baseiam em Mateus 24:30-31.
+- Os pós tribulacionistas argumentam que o arrebatamento e a segunda vinda de Cristo será o mesmo momento, uma coisa só. Este acontecimento ocorrerá após o período de tribulação. Baseiam em Mateus 24:30-31.
+- O fato de dividr o regresso de Jesus em duas fases, arrebatamento e segunda vinda, enquanto a bíblia não fala claramente com distinção entre essas duas fases.
+- Em Apocalipse 13:7 fala que haverá santos na tribulação. Em Apocalipse 20:9 também.
 
 ## Arrebatamento
 
