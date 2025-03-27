@@ -1,3 +1,7 @@
+---
+sidebar_position: 1
+---
+
 # Pneumatologia
 
 É uma das matérias que fala sobre Deus. Esta fala do Espírito Santo, Cristologia fala de Cristo e XXX fala de Deus pai.
@@ -15,10 +19,22 @@ Para os israelitas o vento transmite coisas. Em Jeremias 4:11 temos o vento asso
 
 Muitos associam Espirito Santo a uma força, luz, ação de Deus. Outras religiões monoteístas não acreditam na existência do Espírito Santo igual ao cristianismo. No judaísmo por exemplo Espírito Santo seria um dos nomes de Deus.
 
-O Espírito Santo é uma pessoa
+## O Espírito Santo é uma pessoa
 
 O Espírito Santo consola João 15:26
 O Espírito Santo nos guia João 16:30
 O Espírito Santo fala conosco Atos 13:2
 O Espírito Santo intercede por nós Romanos 8:26
 O Espírito Santo testemunha Romanos 8:16
+
+## Divindade do Espírito Santo
+
+Atos 5:3-4 O Espirito Santo é o próprio Deus. 1 Corintios 3:16, Efésisos 2:22, 2 Coríntios 3:17. O Espírito Santo é chamado _Adonai_ em Isaías 6:8. Hebreus 10:15-16 e Jeremias 31:31-34 tem uma comparação para reafirmar a divindade do Espírito Santo comparando-o com Deus colocando em pé de igualdade.
+
+## Obras com atuação do Espírito Santo
+
+- A criação: Jó 33:4
+- Encarnação: Mateus 1:18
+- Regeneração: João 3:8 e 1 João 4:7 compara o trabalaho do Espírito Santo e aregeneração do homem para chegar no estatuto de varão perfeito. Espírito Santo nos leva ao caminho da regeneração
+- Ressureição: Romanos 8:11
+- Inspiração da palavra de Deus: 2 Pedro 1:21 e 2 Reis 21:10 
