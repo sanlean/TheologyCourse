@@ -37,4 +37,34 @@ Atos 5:3-4 O Espirito Santo é o próprio Deus. 1 Corintios 3:16, Efésisos 2:22
 - Encarnação: Mateus 1:18
 - Regeneração: João 3:8 e 1 João 4:7 compara o trabalaho do Espírito Santo e aregeneração do homem para chegar no estatuto de varão perfeito. Espírito Santo nos leva ao caminho da regeneração
 - Ressureição: Romanos 8:11
-- Inspiração da palavra de Deus: 2 Pedro 1:21 e 2 Reis 21:10 
+- Inspiração da palavra de Deus: 2 Pedro 1:21 e 2 Reis 21:10
+
+#### Regeneração
+
+- Tito 3:5. Regeneração é diferente da restauração. Na regeneração teremos um corpo glorioso no céu, um corpo que nunca tivemos antes. Chegaremos a este estado regenerado completamente
+
+Os estados da salvação são:
+- Justificação
+- Santificação
+- Regeneração
+
+#### Santificação
+
+1 Coríntios 2:10
+Romanos 8:27
+1 Pedro 1:15
+2 Coríntios 3:18
+Judas 24:25
+
+O papel que o Espírito Santo tem na santificação é fundamental
+
+## Dons do Espírito Santo
+
+Efésiso 4:11 - Dons de ofício
+1 Coríntios 12:7-11 - Dons de poder
+1 Coríntios 12:31
+- Dons de inspiração ou expressão verbl
+
+Há diferents formas de atuação de dons
+
+Pesquisar se já nascemos com os dons
