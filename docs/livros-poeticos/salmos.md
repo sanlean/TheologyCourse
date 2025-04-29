@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # Livro de Salmos
 
 O **Livro de Salmos** é uma das obras mais conhecidas e amadas da Bíblia, composto por 150 cânticos, orações e poemas que expressam uma ampla gama de emoções humanas, desde o louvor e a gratidão até o lamento e a súplica. Ele é frequentemente utilizado em cultos religiosos e na devoção pessoal, tanto no judaísmo quanto no cristianismo.
